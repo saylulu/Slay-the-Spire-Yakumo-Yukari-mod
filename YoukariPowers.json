@@ -1,0 +1,231 @@
+﻿{
+	
+	"PositivematterPower": {
+		
+		"NAME": "正物质",
+		
+		"DESCRIPTIONS": ["每次对敌人造成 #y生命流失 时,额外造成 #b"," 次该 #y生命流失 数值的伤害,回合结束时移除"]
+
+	},
+
+	"AntimatterPower":{
+
+		"NAME": "反物质",
+
+		"DESCRIPTIONS": ["每次从卡牌中获得 #y格挡 时，额外获得 #b"," 次该卡牌的基础 #y格挡 值，回合结束时移除"]
+
+	},
+
+	"MemoryfragmentsPower_purpleEX": {
+
+		"NAME": "记忆碎片",
+
+		"DESCRIPTIONS": ["每层增加受到的伤害5%，现在为 #b"," 层"]
+	},
+
+	"DMGremovePower": {
+
+		"NAME": "伤害抵消",
+
+		"DESCRIPTIONS": ["将下 #b"," 次受到的伤害抵消，并储存"]
+
+	},
+
+	"DMGreturnPower": {
+
+		"NAME": "伤害返还",
+
+		"DESCRIPTIONS": ["已储存 #b"," 点伤害"]
+	},
+
+	"RealmPower": {
+
+		"NAME": "境界",
+
+		"DESCRIPTIONS": ["现在有 #b"," 层 #y境界 。"," #y境界 层数不会大于5层,在使用特定卡牌时，需要消耗 #y境界 层数才能打出或触发额外效果，战斗结束时，你每拥有1层 #y境界 , 回复1点生命值"]
+	},
+
+	"NextturnCardPower": {
+
+		"NAME": "下个回合获得卡",
+
+		"DESCRIPTIONS": ["下个回合开始时，获得 #b","张 漱石枕流 "]
+	},
+
+	"AntimatterCLOCK": {
+
+	"NAME": "反物质失效",
+
+	"DESCRIPTIONS": ["本回合反物质不触发效果"]
+	},
+
+	"Ookami_KakushiPower": {
+
+		"NAME": "神隐",
+
+		"DESCRIPTIONS": ["在你对目标造成 #y生命流失 时"," NL 拥有 #y神隐 层数的目标会受到等同于 #y神隐 层数的伤害;然后 #y神隐 层数减少1"]
+	},
+
+	"PositiveMatterAntimatterUniverse_Power": {
+
+		"NAME": "物质与反物质的宇宙",
+
+		"DESCRIPTIONS":["你每使用一张非攻击牌，对随机敌人造成 #b"," 点 #y生命流失 "]
+	},
+
+	"WatchEyeChangePower": {
+
+		"NAME": "静观其变之眼",
+
+		"DESCRIPTIONS":["在造成的非 #y生命流失 伤害时，附加其伤害值一半的 #y生命流失 ，持续 #b"," 回合"]
+	},
+
+	"BaitToxicabitPower": {
+
+		"NAME": "诱饵",
+
+		"DESCRIPTIONS":["在下个回合开始前，受到攻击时，给予攻击者 #b"," 层 #y中毒 和2层 #y易伤 "]
+	},
+
+	"FourBoundaryPower": {
+
+		"NAME": "境符「四重结界」",
+
+		"DESCRIPTIONS":["每当你获得1次正面效果,且此效果与上1次获得的正面效果不同,则在回合结束时获得1次 #b"," 点 格挡 "]
+	},
+
+	"EndOfTurnBlock": {
+
+		"NAME": "回合结束时获得格挡",
+
+		"DESCRIPTIONS":["回合结束时获得 #b"," 点 格挡 "]
+	},
+
+	"PerpetualMotionMachine": {
+
+		"NAME": "第一类永动机",
+
+		"DESCRIPTIONS":["回合结束时，如果本回合你使用的最后一张牌是技能牌；对所有敌人施加 #b"," 层 #y神隐 "]
+	},
+
+	"CommonSenseAntiCommonSensePower": {
+
+		"NAME": "常识与反常识的境界",
+
+		"DESCRIPTIONS":["在你的回合内,你每连续打出2张 #y卡牌类型 不同的卡牌,获得 #b"," 层 境界 "]
+	},
+
+	"FragmentationRealmPower": {
+
+		"NAME": "境界碎裂化",
+
+		"DESCRIPTIONS":["战斗结束后，下一个房间可以任意选择（重复获得无效）"]
+	},
+
+	"TwoAndThreeElementRealmPower": {
+
+		"NAME": "「二次元与三次元的境界」",
+
+		"DESCRIPTIONS":["本回合受到伤害会在下回回复"]
+	},
+
+	"HpHealinNextTurn": {
+
+		"NAME": "下回合回复生命",
+
+		"DESCRIPTIONS":["下个回合开始时回复 #b"," 点生命"]
+	},
+
+	"WangLiang_OokamiKakushi_Power": {
+
+		"NAME": "意念死亡",
+
+		"DESCRIPTIONS":["下 #b"," 次被攻击时，若非 正物质 造成的伤害，则每次失去最大生命的5%"]
+
+	},
+
+	"DoubleDeathButterflyPower": {
+
+		"NAME":"魍魉「二重黑死蝶」",
+
+		"DESCRIPTIONS":["将 #y境界 层数的上限提高到10，如果你的 #y境界 的层数大于5，每次减少 #y境界 层数时，获得 "," "]
+	},
+
+	"Human_Monster_RealmPower": {
+
+		"NAME":"「人类与妖怪的境界」",
+
+		"DESCRIPTIONS":["你打出的下 #b"," 张牌将打出两次"]
+	},
+
+	"ContainerChangePower": {
+
+		"NAME":"「容器的转变」",
+
+		"DESCRIPTIONS":["在你的回合结束时，不再移除 #y正物质 和 #y反物质 "]
+	},
+
+	"UniverseChoicePower": {
+
+		"NAME": "被天地选中的少女",
+
+		"DESCRIPTIONS":["当你即将受到致命伤害时，将生命值锁定为1，并在下回合开始时回复最大生命值的 #b"," %,效果持续至下回合开始"]
+	},
+
+	"ProofOfUnderstandingPower": {
+
+		"NAME": "理解者的证明",
+
+		"DESCRIPTIONS":["当敌人存在 神隐 时，在你的回合结束时受到等同于 神隐 层数的 生命流失 ，且层数+1； 神隐 不会再因受到 生命流失 伤害而损失层数"]
+	},
+
+	"UndeadAttractedbythetowerPower": {
+
+		"NAME": "被高塔诱导的亡灵",
+
+		"DESCRIPTIONS":["每次4次被攻击失去最大生命值5%;你每使用6张攻击牌，受到10点伤害。（已使用 #b"," 张)"]
+	},
+
+	"ForceddeathEXPower": {
+
+		"NAME": "被迫的往生",
+
+		"DESCRIPTIONS":["受到伤害时,每层 #y被迫的往生 减少收到的伤害 #y10% ;到达10层时清空（现在为 #b"," 层）"]
+	},
+
+	"PriceofRealmPowerPurpleEX": {
+
+		"NAME": "境界的代价",
+
+		"DESCRIPTIONS":["每当你抽一张牌，失去 #b"," 点生命;回合结束后移除"]
+	},
+
+	"ComputingthefuturePowerpurpleEX": {
+
+		"NAME": "计算未来",
+
+		"DESCRIPTIONS":["在你的回合结束时，如果你的抽牌堆数量大于20， #y预见 #b"," "]
+	},
+
+	"BoundaryofExterminationPowerpurpleEX": {
+
+		"NAME": "灭世的结界",
+
+		"DESCRIPTIONS":["在你的回合结束时，如果你的抽牌堆数量大于20，对所有敌人造成玩家最大生命值的 #b"," %的 #y生命流失 "]
+	},
+
+	"LoveAcrossDimensionsPower": {
+
+		"NAME": "跨越次元的爱意",
+
+		"DESCRIPTIONS":["你无法再获得 #y正物质 ， #y反物质 ;但每回合开始时获得2点 #y力量 ，每获得5层 #y境界 ，消耗5层 #y境界 获得1层 #y金属化 ，且每回合打出的第一张牌将会打出2次"]
+	},
+
+	"DistantPastFriendPowerPurpleEX": {
+
+		"NAME":"遥远过去的友人",
+
+		"DESCRIPTIONS":["在你的回合开始时，获得 #b"," 层 #y多层护甲 "]
+
+	}
+}

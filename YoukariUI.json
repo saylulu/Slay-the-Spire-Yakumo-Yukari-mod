@@ -1,0 +1,25 @@
+{
+  "LoveAcrossDimensionsAction_purple": {
+    "TEXT": [
+      "变为0费并获得虚无和消耗"
+    ]
+  },
+  "OmniscientAndOmnipotentMonsterAction": {
+    "TEXT": [
+      "移动到抽牌堆"
+    ]
+  },
+  "RewardEnumPuepleEX": {
+    "TEXT": [
+      "升级所有卡牌",
+      "恢复所有生命",
+      "移除所有诅咒",
+      "获得一张特殊卡"
+    ]
+  },
+  "MakecardtoDrawPileBottomAction": {
+    "TEXT": [
+      "移动到抽牌堆底部"
+    ]
+  }
+}

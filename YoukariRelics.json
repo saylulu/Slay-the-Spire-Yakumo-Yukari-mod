@@ -1,0 +1,46 @@
+﻿{
+	
+	"Boundary_crack":{
+		"NAME":"境界裂痕",
+		"FLAVOR":"来到高塔之后，你发现高塔的力量能压制你的能力",
+		"DESCRIPTIONS":["每当你使用 #b1 张 #b能力牌 ，获得1层 #y境界 。"]
+	
+	},
+
+	"Memoryfragments_purpleEX": {
+		"NAME":"记忆碎片",
+		"FLAVOR":"这一次，我一定要拯救她...",
+		"DESCRIPTIONS":["每当你战胜一个精英敌人，增加一个记忆碎片（最多4个），每当你获得记忆碎片，失去 #b30% 当前生命值;每拥有 #b1 个记忆碎片，受到的伤害增加5%；每拥有 #b2 个记忆碎片，每回合开始时多抽 #b1 张卡(最多2张)"]
+	},
+
+	"Antimatter_spacedebris": {
+		"NAME":"反物质空间碎片",
+		"FLAVOR":"拾取这个碎片后，你感觉高塔对你的能力压制减轻了",
+		"DESCRIPTIONS":["每当你使用一张能力牌，对随机敌人施加 #b3 层 #y神隐 "]
+	},
+
+	"Parasol_purpleEX": {
+		"NAME":"阳伞",
+		"FLAVOR":"这把伞具有特别的力量，这是她的东西",
+		"DESCRIPTIONS":["每当你获得 #y正物质 ， #y反物质 时，额外获得1层"]
+	},
+
+	"Seventeenyearold_girl_Forever": {
+		"NAME":"永远的17岁少女",
+		"FLAVOR":"为了（数据删除），每过一年，我的身体都会变回上一年的模样",
+		"DESCRIPTIONS":["战斗结束时，如果你的 #y境界 到达最大值，获得 #b2 点最大生命值"]
+	},
+
+	"ThegodofHakurei_purpleEX": {
+		"NAME":"博丽之神",
+		"FLAVOR":"这是从灵梦给予你的牌子，它可以增强你对神隐的控制能力。",
+		"DESCRIPTIONS":["每当你的 #y境界 减少时，给予所有敌人3层 #y神隐 "]
+	},
+
+	"TheEssenceOfRealm": {
+		"NAME": "境界的本质",
+		"FLAVOR":"境界是万事万物规律的本质之一，任何概念规则都要依存于境界之上。没有境界，宇宙将混沌无序。",
+		"DESCRIPTIONS":["在你的回合结束时，如果你的 #y境界 层数为 #b0 ，获得等同于弃牌堆数量的 #y格挡 ，并将弃牌堆剩余的卡洗牌并放入抽牌堆。"]
+	}
+
+}
